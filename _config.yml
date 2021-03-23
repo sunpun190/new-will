@@ -1,16 +1,16 @@
 # Site settings
-title: 部落格名稱
-description: 描述
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "部落格網址" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+title: 我的部落格
+description: 紀錄生活的部落格
+baseurl: ""
+url: "https://t6y4sun.github.io"
 
 # User settings
-username: 作者名稱
-user_description: 作者自述
-user_title: 首頁自述
-email: 電子郵件
-twitter_username: twitter 使用者名稱
-github_username:  github 使用者名稱
+username: sun
+user_description: 住在火星, 目前在 NASA 工作
+user_title: 歡迎來到我的部落格
+email: t6u4sun@gmail.com
+twitter_username: t6u4sun
+github_username: t6u4sun
 
 # Build settings
 markdown: kramdown
