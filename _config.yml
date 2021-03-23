@@ -1,0 +1,40 @@
+# Site settings
+title: 部落格名稱
+description: 描述
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "部落格網址" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: 作者名稱
+user_description: 作者自述
+user_title: 首頁自述
+email: 電子郵件
+twitter_username: twitter 使用者名稱
+github_username:  github 使用者名稱
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: 主頁
+    url: /
+  - title: 分類
+    url: /series
+  - title: 標籤
+    url: /tags
+  - title: 關於
+    url: /about
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
