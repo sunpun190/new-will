@@ -114,7 +114,7 @@ $ . initpost.sh -c 文章標題
 
 about.html 需要自己編輯, 可能會需要基本的 HTML 知識, 請斟酌編輯
 
-## 恭喜! build 你的部落格!
+## 恭喜! Build 你的部落格!
 
 恭喜您! 在 push 之前, 別忘了使用 gulp 來建置您的部落格!
 
