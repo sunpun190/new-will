@@ -99,14 +99,31 @@ github_username: t6u4sun
 
 變更以下路徑粗體字之檔案來設定部落格 icon
 
-|-- assets
-|   |-- css
-|   |   |-- main.css
-|   |-- img
-|   |   |-- blog-author.jpg
-|   |   |-- icons
-|   |       |-- __32_favicon.png__
-|   |       |-- __64_favicon.png__
+assets/
+├── img
+│   ├── blog-author.jpg
+│   └── icons
+│       ├── 32_favicon.png
+│       ├── 64_favicon.png
+│       ├── apple-touch-icon-114x114.png
+│       ├── apple-touch-icon-120x120.png
+│       ├── apple-touch-icon-144x144.png
+│       ├── apple-touch-icon-152x152.png
+│       ├── apple-touch-icon-57x57.png
+│       ├── apple-touch-icon-60x60.png
+│       ├── apple-touch-icon-72x72.png
+│       ├── apple-touch-icon-76x76.png
+│       ├── apple-touch-icon.png
+│       ├── __favicon-16x16.ico__
+│       ├── favicon-16x16.png
+│       ├── favicon-32x32.png
+│       ├── favicon-64x64.png
+│       ├── __favicon.ico__
+│       ├── largetile.png
+│       ├── mediumtile.png
+│       ├── smalltile.png
+│       └── widetile.png
+
 
 ### 部落格主題參數
 
