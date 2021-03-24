@@ -128,6 +128,21 @@ jsonFile        : 'https://你的github使用者名稱.github.io/search.json',
 $ . initpost.sh -c 文章標題
 ```
 
+initpost.sh 會在您的 _post/ 建立一篇 markdown 文件, 其格式為 年-月-日-文章名稱.md, 內容如下
+
+```markdown
+---
+layout: post
+title: "test"
+date: 2021-03-24 21:09:04
+image: '/assets/img/post/'
+description:
+tags:
+categories:
+twitter_text:
+---
+```
+
 ## 注意事項
 
 about.html 需要自己編輯, 可能會需要基本的 HTML 知識, 請斟酌編輯
