@@ -86,65 +86,18 @@ github_username: t6u4sun
 
 ### 設定作者的照片
 
-變更以下路徑粗體字之檔案來設定作者照片
-
-|-- assets
-<br>|   |-- css</br>
-|   |   |-- main.css
-<br>|   |-- img</br>
-|   |   |-- __blog-author.jpg__
-<br>|   |   |-- icons</br>
+[userpic](readmepic/userpic.png)
 
 ### 部落格 icon
 
-變更以下路徑粗體字之檔案來設定部落格 icon
-
-assets/
-├── img
-│   ├── blog-author.jpg
-│   └── icons
-│       ├── 32_favicon.png
-│       ├── 64_favicon.png
-│       ├── apple-touch-icon-114x114.png
-│       ├── apple-touch-icon-120x120.png
-│       ├── apple-touch-icon-144x144.png
-│       ├── apple-touch-icon-152x152.png
-│       ├── apple-touch-icon-57x57.png
-│       ├── apple-touch-icon-60x60.png
-│       ├── apple-touch-icon-72x72.png
-│       ├── apple-touch-icon-76x76.png
-│       ├── apple-touch-icon.png
-│       ├── __favicon-16x16.ico__
-│       ├── favicon-16x16.png
-│       ├── favicon-32x32.png
-│       ├── favicon-64x64.png
-│       ├── __favicon.ico__
-│       ├── largetile.png
-│       ├── mediumtile.png
-│       ├── smalltile.png
-│       └── widetile.png
+[tree_ico](/readmepic/tree_ico.png)
 
 
 ### 部落格主題參數
 
 編輯以下路徑粗體文字之檔案來設定主題參數
 
-|-- src
-    |-- styl
-        |-- _animations.styl
-        |-- _author.styl
-        |-- _elements.styl
-        |-- _footer.styl
-        |-- _header.styl
-        |-- _hightlight.styl
-        |-- _home.styl
-        |-- _icons.styl
-        |-- _menu.styl
-        |-- _post.styl
-        |-- _search.styl
-        |-- _typo.styl
-        |-- ___variables.styl__
-        |-- main.styl
+[blogvar](readmepic/blogvar.png)
 
 ### 更改的檔案
 
