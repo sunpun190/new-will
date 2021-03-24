@@ -90,7 +90,7 @@ github_username: t6u4sun
 
 ### 部落格 icon
 
-![tree_ico](/readmepic/tree_ico.png)
+![tree_ico](/readmepic/treeico.png)
 
 ### 部落格主題參數
 
