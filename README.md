@@ -74,15 +74,31 @@ github_username: t6u4sun
 
 ### 設定作者的照片
 
-![userpic](readmepic/userpic.png)
+將您的照片檔名改成 blog-author.jpg 並移動至 assets/img 取代原本的 blog-author.jpg
+
+__照片尺寸建議不要超過 500X500__
 
 ### 部落格 icon
 
-![tree_ico](/readmepic/treeico.png)
+如需更改部落格的 icon, 請替換 assets/icons 裡面的 *favico.ico* 及 *favico-16x16.ico*
 
-### 部落格主題參數
+### 部落格主題顏色
 
-![blogvar](readmepic/blogvar.png)
+設定檔於 src/styl/*_variables.styl*
+
+下列為設定檔內容
+
+```css
+// COLORS
+main = #33135C
+hover = darken(main, 50%)
+sec  = #FFFFFF
+lightGray = #F2F2F2
+texts = #333333
+colorcode = #3085F4
+// Resolution
+cut = 37.5rem
+```
 
 ### 更改的檔案
 
