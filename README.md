@@ -86,18 +86,18 @@ github_username: t6u4sun
 
 ### 設定作者的照片
 
-[userpic](readmepic/userpic.png)
+![userpic](readmepic/userpic.png)
 
 ### 部落格 icon
 
-[tree_ico](/readmepic/tree_ico.png)
+![tree_ico](/readmepic/tree_ico.png)
 
 
 ### 部落格主題參數
 
 編輯以下路徑粗體文字之檔案來設定主題參數
 
-[blogvar](readmepic/blogvar.png)
+![blogvar](readmepic/blogvar.png)
 
 ### 更改的檔案
 
