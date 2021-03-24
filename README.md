@@ -88,11 +88,11 @@ github_username: t6u4sun
 
 變更以下路徑粗體字之檔案來設定作者照片
 
-<br>|-- assets</br>
+|-- assets
 <br>|   |-- css</br>
-<br>|   |   |-- main.css</br>
+|   |   |-- main.css
 <br>|   |-- img</br>
-<br>|   |   |-- __blog-author.jpg__</br>
+|   |   |-- __blog-author.jpg__
 <br>|   |   |-- icons</br>
 
 ### 部落格 icon
