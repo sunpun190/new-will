@@ -128,20 +128,22 @@ jsonFile        : 'https://你的github使用者名稱.github.io/search.json',
 $ . initpost.sh -c 文章標題
 ```
 
-initpost.sh 會在您的 _post/ 建立一篇 markdown 文件, 其格式為 年-月-日-文章名稱.md, 內容如下
+initpost.sh 會在您的 _post/ 建立一篇 markdown 文件, 其格式為 年-月-日-文章名稱.md, 內容及註解如下
 
 ```markdown
 ---
-layout: post
-title: "test"
-date: 2021-03-24 21:09:04
-image: '/assets/img/post/'
-description:
-tags:
-categories:
-twitter_text:
+layout: post # 類別
+title: "test" # 文章標題
+date: 2021-03-24 21:09:04 # 建立日期
+image: '/assets/img/post/' # 文章圖庫位置
+description: # 文章概要
+tags: # 標籤
+categories: # 文章主題
+twitter_text: # Twitter 上顯示的文章概要
 ---
 ```
+
+可以將文章所需要的圖片放置到 /assets/img/post/ 即可在文章中使用
 
 ## 注意事項
 
