@@ -88,12 +88,12 @@ github_username: t6u4sun
 
 變更以下路徑粗體字之檔案來設定作者照片
 
-|-- assets
-|   |-- css
-|   |   |-- main.css
-|   |-- img
-|   |   |-- __blog-author.jpg__
-|   |   |-- icons
+<br>|-- assets</br>
+<br>|   |-- css</br>
+<br>|   |   |-- main.css</br>
+<br>|   |-- img</br>
+<br>|   |   |-- __blog-author.jpg__</br>
+<br>|   |   |-- icons</br>
 
 ### 部落格 icon
 
@@ -135,7 +135,7 @@ github_username: t6u4sun
 
 第 4 行
 ```js
-jsonFile        : 'https://你的使用者名稱.github.io/search.json',
+jsonFile        : 'https://你的github使用者名稱.github.io/search.json',
 ```
 
 解說: 讓搜尋功能運作
@@ -144,7 +144,7 @@ jsonFile        : 'https://你的使用者名稱.github.io/search.json',
 
 第 2 行
 ```html
-<p>此部落格為 <a href="https://github.com/你的使用者名稱" target="_blank">你的使用者名稱</a> 擁有</p>
+<p>此部落格為 <a href="https://github.com/你的github使用者名稱" target="_blank">你的github使用者名稱</a> 擁有</p>
 ```
 
 解說: 更改部落格的 footer
