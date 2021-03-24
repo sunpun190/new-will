@@ -107,7 +107,7 @@ jsonFile        : 'https://你的github使用者名稱.github.io/search.json',
 以下指令可以建立一篇新的文章
 
 ```console
-$ . initpost.sh -c test
+$ . initpost.sh -c 文章標題
 ```
 
 ## 注意事項
