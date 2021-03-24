@@ -13,7 +13,7 @@ $ sudo apt install ruby // Linux
 $ sudo brew install ruby // Mac
 ```
 
-1. 安裝 Jekyll
+2. 安裝 Jekyll
 
 ```console
 $ sudo gem install jekyll
@@ -26,7 +26,7 @@ $ sudo apt install node // Linux
 $ sudo brew install node // Mac
 ```
 
-1. 安裝 Gulp (注意版本不得超過 3.9.1, 不然會出錯)
+4. 安裝 Gulp (注意版本不得超過 3.9.1, 不然會出錯)
 
 ```console
 $ sudo npm install -g gulp@3.9.1
