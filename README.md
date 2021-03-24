@@ -92,7 +92,6 @@ github_username: t6u4sun
 
 ![tree_ico](/readmepic/tree_ico.png)
 
-
 ### 部落格主題參數
 
 編輯以下路徑粗體文字之檔案來設定主題參數
