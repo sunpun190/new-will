@@ -145,9 +145,9 @@ twitter_text: # Twitter 上顯示的文章概要
 
 可以將文章所需要的圖片放置到 /img/ 即可在文章中使用
 
+ ### 圖片位置 /img/desktop.png
+
 ```markdown
- #圖片位置 /img/desktop.png
- 
  ![desktop](/img/desktop.png)
 ```
 
