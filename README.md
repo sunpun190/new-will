@@ -135,7 +135,7 @@ initpost.sh 會在您的 _posts/ 建立一篇 markdown 文件, 其格式為 年-
 layout: post # 類別
 title: "test" # 文章標題
 date: 2021-03-24 21:09:04 # 建立日期
-image: '/assets/img/post/' # 文章圖庫位置
+image: '/img/' # 文章圖庫位置
 description: # 文章概要
 tags: # 標籤
 categories: # 文章主題
@@ -143,7 +143,11 @@ twitter_text: # Twitter 上顯示的文章概要
 ---
 ```
 
-可以將文章所需要的圖片放置到 /assets/img/post/ 即可在文章中使用
+可以將文章所需要的圖片放置到 /img/ 即可在文章中使用
+
+```markdown
+![desktop](/img/desktop.png) # 圖片位置 /img/desktop.png
+```
 
 ## 注意事項
 
