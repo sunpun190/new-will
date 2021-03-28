@@ -21,11 +21,11 @@ $ sudo brew install ruby // Mac
 $ sudo gem install jekyll
 ```
 
-3. 安裝 NodeJS
+3. 安裝 NPM
 
 ```console
-$ sudo apt install node // Linux
-$ sudo brew install node // Mac
+$ sudo apt install npm // Linux
+$ sudo brew install npm // Mac
 ```
 
 4. 安裝 Gulp (注意版本不得超過 3.9.1, 不然會出錯)
