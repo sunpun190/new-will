@@ -2,7 +2,7 @@
 
 :arrow_right: 這個專案的作者並不是我 :arrow_left:
 
-這個專案是源自於 [willianjusten](https://github.com/willianjusten) 的 [will-jekyll-template](https://github.com/willianjusten/will-jekyll-template), 由於此專案已經停止維護, 所以我將其 fork 過來, 並加入了一些 javascript 工具, 以下的說明僅適用於 Linux 或 Mac, Windows 暫時沒有說明, 如果喜歡這個 Jekyll 部落格主題, 歡迎前往[原專案](https://github.com/willianjusten/will-jekyll-template)給顆 star
+這個專案是源自於 [willianjusten](https://github.com/willianjusten) 的 [will-jekyll-template](https://github.com/willianjusten/will-jekyll-template), 由於此專案已經停止維護, 所以我將其 fork 過來, 並加入了一些 javascript 工具, 以下的說明僅適用於 Linux, Windows 暫時沒有說明, 如果喜歡這個 Jekyll 部落格主題, 歡迎前往[原專案](https://github.com/willianjusten/will-jekyll-template)給顆 star
 
 ![blog](readmepic/blog.png)
 
@@ -11,8 +11,7 @@
 1. 安裝 Ruby
 
 ```console
-$ sudo apt install ruby // Linux
-$ sudo brew install ruby // Mac
+$ sudo apt install ruby
 ```
 
 2. 安裝 Jekyll
@@ -24,8 +23,7 @@ $ sudo gem install jekyll
 3. 安裝 NPM
 
 ```console
-$ sudo apt install npm // Linux
-$ sudo brew install npm // Mac
+$ sudo apt install npm
 ```
 
 4. 安裝 Gulp (注意版本不得超過 3.9.1, 不然會出錯)
