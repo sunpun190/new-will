@@ -123,7 +123,7 @@ jsonFile        : 'https://你的github使用者名稱.github.io/search.json',
 以下指令可以建立一篇新的文章
 
 ```console
-$ . initpost.sh -c 文章標題
+$ bash initpost.sh -c 文章標題
 ```
 
 initpost.sh 會在您的 _posts/ 建立一篇 markdown 文件, 其格式為 年-月-日-文章名稱.md, 內容及註解如下
